@@ -45,4 +45,4 @@ cd age-calculator
 
 Run the script:
 
-python calculator.py
+python age-calculator.py
